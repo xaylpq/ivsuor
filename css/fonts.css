@@ -1,0 +1,6 @@
+@font-face{font-family:'Open Sans - Extrabold';src:url('../fonts/OpenSans-ExtraBold');src:local('../fonts/OpenSans-ExtraBold'), local('../fonts/OpenSans-ExtraBold'),
+url('{8e559e73c98aaae7da34174159351be6}') format('embedded-opentype'),
+url('../fonts/OpenSans-ExtraBold.ttf') format('truetype');font-weight:bold;font-style:normal;}
+@font-face{font-family:'Open Sans';src:url('../fonts/OpenSans-Regular.eot');src:local('../fonts/OpenSans-Regular'), local('../fonts/OpenSans-Regular'),
+url('{05ba420a0d75c124b67cfc93f052d28a}') format('embedded-opentype'),
+url('../fonts/OpenSans-Regular.ttf') format('truetype');font-weight:normal;font-style:normal;}
